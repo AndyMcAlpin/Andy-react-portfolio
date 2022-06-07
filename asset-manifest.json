@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Andy-react-portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/Andy-react-portfolio/static/js/main.7b12b1cd.js",
+    "static/js/787.401fe9ef.chunk.js": "/Andy-react-portfolio/static/js/787.401fe9ef.chunk.js",
+    "static/media/Bloodgate.jpg": "/Andy-react-portfolio/static/media/Bloodgate.888f3040c76a54c5d7c8.jpg",
+    "static/media/Horiseon.jpg": "/Andy-react-portfolio/static/media/Horiseon.4d613d5d91e1f15e1bd8.jpg",
+    "static/media/Selfie.jpg": "/Andy-react-portfolio/static/media/Selfie.99a174dca523556ced15.jpg",
+    "index.html": "/Andy-react-portfolio/index.html",
+    "main.e6c13ad2.css.map": "/Andy-react-portfolio/static/css/main.e6c13ad2.css.map",
+    "main.7b12b1cd.js.map": "/Andy-react-portfolio/static/js/main.7b12b1cd.js.map",
+    "787.401fe9ef.chunk.js.map": "/Andy-react-portfolio/static/js/787.401fe9ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7b12b1cd.js"
+  ]
+}
